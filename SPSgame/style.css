@@ -1,0 +1,100 @@
+*{
+    margin: 0px;
+    font-family: Arial;
+}
+
+.game-nav{
+    height: 70px;
+    color: white;
+    background-color: cadetblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+/*choice-section*/
+
+.choices{
+
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+.choice{
+    height: 200px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+img{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    
+}
+
+img:hover {
+    border: 2px solid black;
+}
+ 
+
+
+/*point-table*/
+.score-board{
+    height: 100px;
+    margin-top: 100px;
+    padding-left: 50px;
+    /* background-color: violet; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.score{
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-right: 20px;
+    
+}
+
+
+
+/*button*/
+
+.msg-box{
+    height: 100px;
+    width: 100%;
+    /*  background-color: blue;  */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#msg{
+    height: 50px;
+    width: 200px;
+    color: white;
+    background-color: cadetblue;
+    border-radius: 5px 5px 5px 5px;
+    margin-left: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#msg:hover{
+    background-color: rgb(66, 180, 184);
+}
+
+
