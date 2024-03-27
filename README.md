@@ -4,5 +4,7 @@
 <h2>All this projects is made for practice purpose</h2>
 <br>
 <p>i've taken help from multiple resources for create this projects</p>
-
+<video src = "C:\Users\Hardik\Desktop\js project\How sps game work.mp4">SPS game</video>
+<br>
+<video src="C:\Users\Hardik\Desktop\js project\How ultimate color work.mp4">Ultimate color</video>
 
