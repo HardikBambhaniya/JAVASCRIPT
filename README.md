@@ -1,10 +1,5 @@
-# Javascript practice project
-<p>This is my first javascript repo , in this repository you will find some mini projects which was made by me for practice purpose </p>
+<h3>This is my first repository</h3>
 <br>
-<h2>All this projects is made for practice purpose</h2>
+<p>In this repo you will find some mini project  that I have done. Feel free to explore and use them as you wish.</p>
 <br>
-<p>i've taken help from multiple resources for create this projects</p>
-<video src = "C:\Users\Hardik\Desktop\js project\How sps game work.mp4">SPS game</video>
-<br>
-<video src="C:\Users\Hardik\Desktop\js project\How ultimate color work.mp4">Ultimate color</video>
-
+<p>I am learning how to use GitHub and this is a test for it.</p>
